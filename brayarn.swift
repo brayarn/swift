@@ -1,7 +1,7 @@
 var occupations [
    "wanjiku": "human resource",
    "kamau": "computer science",
-   "oliver": "programmer",
+   "Manyasa": "programmer",
 
 ]
 print("oliver")
